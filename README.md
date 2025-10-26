@@ -27,7 +27,6 @@ To understand how a firewall works by creating, testing, and deleting a custom r
 - firewall_dashboard.png – Firewall main screen  
 - block_port23.png – Rule created to block Port 23  
 - test_block_port23.png – PowerShell test result  
-- remove_rule.png – Rule deleted after testing  
 
 ## Conclusion  
 This task helped me practically understand how firewall rules work and how they protect a system from unwanted connections. By blocking Telnet (Port 23), I confirmed that Windows Firewall can effectively restrict insecure or unnecessary network traffic.
